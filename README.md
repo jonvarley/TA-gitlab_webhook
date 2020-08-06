@@ -1,1 +1,1 @@
-# TA-jira_webhook
+# TA-gitlab_webhook
